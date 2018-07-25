@@ -5,13 +5,6 @@ This is a TypeScript implementation of a simple Raytracer, which was made by fol
 
 We're targetting Canvas in a web browser as our rendering target to keep things simple.
 
-## TODO
-
-* use npm i in setup
-* add docs for Viewport
-* describe the layout of the project
-* mention the use of TypeScript and Webpack
-
 ## Prerequisites
 
 * Node 9.8 or above. There's a `.nvmrc` file in the root dir if you use [nvm](https://github.com/creationix/nvm).
